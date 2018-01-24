@@ -12,7 +12,7 @@ What we're learning today:
 I don't teach for a living so I'm going to mostly just scrounge up some resources that I think are good at teaching this stuff. I'm mainly here to answer questions and help you if you have trouble.
 
 ## Basics of the internet
-Start by watching this guy explain it [here](http://fundamentals.generalassemb.ly/01_unit/internet-fundamentals.html)
+Start by watching this guy explain it [here](http://fast.wistia.net/embed/iframe/e1hu2b8jm6)
 
 Let's take a closer look at what he's talking about by discussing what happens when you go to google.com. Take a look at this diagram.
 
